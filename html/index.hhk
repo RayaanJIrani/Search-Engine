@@ -1,0 +1,1277 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#aedc59ff2de483461601885c0872501ad"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a2bc87695543e84ab5a2bb6741dc9be37"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#ac6dc1f61e5e8550f6c90c078efba3c8f"><param name="Name" value="balance"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#ac64438da5a707e9b9ab733dca1ef13d1"><param name="Name" value="clone"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a599ae32157fadbb1f9ceb5e01bd1c08e"><param name="Name" value="contains"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a34a41808353dc9b47a1b3361291c3ea5"><param name="Name" value="contains"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a221424efe06e077d498236f96bdf8d5a"><param name="Name" value="destructorHelper"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a097f654733d9b48181a8b078a7237bfc"><param name="Name" value="doubleWithLeftChild"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#ae36138ed3124b3b5aef4fd355a4d352c"><param name="Name" value="doubleWithRightChild"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a04d6bd446033890e2e4c3b51453c1116"><param name="Name" value="get"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#ad583adb0843ab4012e5a566bed3734ba"><param name="Name" value="get"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a602ec1e48408d0167405d78ff89caca7"><param name="Name" value="getHeight"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a499ea2fa847fe2c16c788d454d924202"><param name="Name" value="getVectOfElements"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#aafff3f586b7791ad347625903e401f91"><param name="Name" value="getVectOfElementsHelper"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#aa25f6e0385fb37d1c77c12978e74cb2e"><param name="Name" value="get_root"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a3f1d102f7543fdbfcdbf457cfc2bc496"><param name="Name" value="insert"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a939ef31d50ed84eb340bf8fa6dc020a0"><param name="Name" value="insert"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a38a16a39c0bd4944855c7a1e607cc85f"><param name="Name" value="insert"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#af6fc23d7385e5fa87c1168214b8b8a4c"><param name="Name" value="operator="></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#ab27b40f737ad9e29279668ef4c03a0e7"><param name="Name" value="printFileHelper"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a462efcbf39502064d0b004012e82a2ff"><param name="Name" value="printInOrder"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a12b1f84a2cf25750c64b817d951578e5"><param name="Name" value="printInOrder"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a74599f42247aa1369967ede3cf31a782"><param name="Name" value="printPostOrder"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a503429b957d13e6aac38f0c3819b72a4"><param name="Name" value="printPostOrder"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#af6564bf139a6033cd15808f6200ec488"><param name="Name" value="printPreOrder"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a1d90be78a1cb34c92d990ce06f2846c5"><param name="Name" value="printPreOrder"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#ad03d21562fe84ef20ee0374456c1cfda"><param name="Name" value="printTreeToFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a84e5f9d5871c75ac12015c30ffe58ef1"><param name="Name" value="root"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#aeac9efe815f1cb9e486d337c5f27b8a1"><param name="Name" value="rotateWithLeftChild"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#acf5aca2502a9ca12bbfd82940e3483c7"><param name="Name" value="rotateWithRightChild"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#aeced9b6d83089ae7f74234ae717b71b5"><param name="Name" value="~DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a4b17155f2abfa8a83002ad4c27b603e9"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#aee688ef06e999a7d71cef4b4b5cfbcae"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#aedc59ff2de483461601885c0872501ad"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#aedc59ff2de483461601885c0872501ad"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a2bc87695543e84ab5a2bb6741dc9be37"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a2bc87695543e84ab5a2bb6741dc9be37"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#ad3ea7b51d1369113ec9f0a8b6abb042a"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#ad3ea7b51d1369113ec9f0a8b6abb042a"><param name="Name" value="DSAVLTreeNode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#afcb36e7a0f8f9cbaf8948fe2c12536fb"><param name="Name" value="balance"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#abd4b0f0728518e295e5dab9cf0bf378b"><param name="Name" value="clone"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a676873b8cd67f2f955e35c91e0f66b75"><param name="Name" value="contains"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a7fc59f60d0e62e2a4a1ae88e42c1d0ec"><param name="Name" value="contains"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a57c72cbe6de3592e32d7ac1b6c66a2bb"><param name="Name" value="destructorHelper"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#af23a16f0b9adea9ac9a2cd91c41f0c1c"><param name="Name" value="doubleWithLeftChild"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a8c7aa77ad5b56dddee35ca7df9bfd57f"><param name="Name" value="doubleWithRightChild"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a50f2f9c71224208aad4401bc04d74fbe"><param name="Name" value="get"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a07f3dad9f5120e86ef220f976d4d7bf4"><param name="Name" value="get"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a08232592b65364bf18cc89d86e69d9e5"><param name="Name" value="getHeight"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a1687590c809bc2a4e9e417f5a3cb7cd2"><param name="Name" value="get_root"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#aa82afbe5e725b5229a75b4aba39224b0"><param name="Name" value="insert"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a6d9d2aedebcb8236cd6b2c0a8fd84376"><param name="Name" value="insert"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a583c9125a6be93a0ccb29361cd1d51fa"><param name="Name" value="insert"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a231d42ccf3da07c9a9ca614d78343e8e"><param name="Name" value="operator="></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a26e446b53943d23cf0b884a0342a2868"><param name="Name" value="printInOrder"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#acbfca2ec62e71686e594cf355922047a"><param name="Name" value="printInOrder"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a64b386de16891bcacbbbba9606ee7b6f"><param name="Name" value="printPostOrder"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a11d1438e696dfc62716a3f898f069dcf"><param name="Name" value="printPostOrder"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a5633bcba04d4eceabce6b2dda9cb1a13"><param name="Name" value="printPreOrder"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a802c32858ee759e6b650615eca6a9f80"><param name="Name" value="printPreOrder"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a614f3d5ae8f2fc81a4b99544f57cff64"><param name="Name" value="root"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a04a2839782625bb6737a73e97538f574"><param name="Name" value="rotateWithLeftChild"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#adfb8d8158d9bc74680b0e9a60fbaa4a9"><param name="Name" value="rotateWithRightChild"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html"><param name="Name" value="DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a00f47fef3739978ea4834640bdf502d0"><param name="Name" value="~DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html"><param name="Name" value="DSAVLTreeNode"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html"><param name="Name" value="DSAVLTreeNode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#ad3ea7b51d1369113ec9f0a8b6abb042a"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html"><param name="Name" value="DSAVLTreeNode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#a32dab43e3e97305e0fcd18ebe1f9b21c"><param name="Name" value="DSAVLTreeNode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html"><param name="Name" value="DSAVLTreeNode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#a0758d0707af5d78091c4beb8caa86122"><param name="Name" value="DSAVLTreeNode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html"><param name="Name" value="DSAVLTreeNode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#a410a6bc9eea85504f9e7db1f77216c97"><param name="Name" value="get_key"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html"><param name="Name" value="DSAVLTreeNode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#a7f7528dfd5dfa60e2c1b70e5949f25b3"><param name="Name" value="get_left"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html"><param name="Name" value="DSAVLTreeNode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#aa4230ccd2c07b95fe4927c656cb424ff"><param name="Name" value="get_right"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html"><param name="Name" value="DSAVLTreeNode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#ae2e52516e45b67f1c343344abe989f8d"><param name="Name" value="get_value"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html"><param name="Name" value="DSAVLTreeNode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#ab32c2653b4c84d3e0b3c60c7f7e0d3f9"><param name="Name" value="height"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html"><param name="Name" value="DSAVLTreeNode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#a45b60a1c6c188b34862cb30741ee5209"><param name="Name" value="key"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html"><param name="Name" value="DSAVLTreeNode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#ad9df054f434521391d69248dab77edf4"><param name="Name" value="left"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html"><param name="Name" value="DSAVLTreeNode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#a263be9c7dc9cc6de1abe85491417dcfe"><param name="Name" value="right"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html"><param name="Name" value="DSAVLTreeNode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#a5c8a3949548d3ef0146a125b3ec66ff8"><param name="Name" value="value"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html"><param name="Name" value="DSHashTable"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_d_s_hash_table_1_1pair.html"><param name="Name" value="DSHashTable::pair"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_d_s_hash_table_1_1pair.html"><param name="Name" value="DSHashTable::pair"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_d_s_hash_table_1_1pair.html#ac92715e61161bf7fa381427dab069508"><param name="Name" value="key"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_d_s_hash_table_1_1pair.html"><param name="Name" value="DSHashTable::pair"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_d_s_hash_table_1_1pair.html#a97bef9fbafa6691759a62190537362dd"><param name="Name" value="pair"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_d_s_hash_table_1_1pair.html"><param name="Name" value="DSHashTable::pair"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_d_s_hash_table_1_1pair.html#adae5335efa276a5a459d33f1c4e3c9bb"><param name="Name" value="value"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html"><param name="Name" value="DSHashTable"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#aca3f87f230cad3766f6e90f1e716b602"><param name="Name" value="DSHashTable"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html"><param name="Name" value="DSHashTable"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#a693ff30501ee776b283cd5361b417a63"><param name="Name" value="contains"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html"><param name="Name" value="DSHashTable"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#ab4ca1d768cb3191d94cd1d82e41887d3"><param name="Name" value="getNumElememts"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html"><param name="Name" value="DSHashTable"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#a5574c1925fb7e0a23530885187e101cb"><param name="Name" value="getVal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html"><param name="Name" value="DSHashTable"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#a0adf728ae8aca106fef83d27baf5bcd9"><param name="Name" value="hash"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html"><param name="Name" value="DSHashTable"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#acaac100e394efa82cfd7494bf6e8f6af"><param name="Name" value="insert"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html"><param name="Name" value="DSHashTable"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#a5d5c36daaf90fabfa95b724e92eb83fd"><param name="Name" value="numElements"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html"><param name="Name" value="DSHashTable"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#a7ddd7dbd862a19cfda37396a257d1108"><param name="Name" value="printMap"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html"><param name="Name" value="DSHashTable"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#a8cfa8c1dfb277f8852203dd19781ab2e"><param name="Name" value="printTableToFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html"><param name="Name" value="DSHashTable"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#aa0d415f187d08d30ac5ee03f91e77382"><param name="Name" value="rehash"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html"><param name="Name" value="DSHashTable"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#a2c03c7a2cab5cccc925c68bb0c6856b1"><param name="Name" value="table"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html"><param name="Name" value="DSHashTable"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#a407e966ea2b78075a034ccab7e875239"><param name="Name" value="tableSize"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html"><param name="Name" value="DocumentParser"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html"><param name="Name" value="DocumentParser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html#ab3c89a17617ca352d3bf2049543e28d7"><param name="Name" value="DocumentParser"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html"><param name="Name" value="DocumentParser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html#a5af1678eadc5dd475a57dd38a4313ba2"><param name="Name" value="IndexHandler"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html"><param name="Name" value="DocumentParser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html#aa6b27c9925280109ec03e9dfbbb7279e"><param name="Name" value="documents"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html"><param name="Name" value="DocumentParser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html#a0621ecd3e2c6c042ef7ec8271355aa83"><param name="Name" value="findDocumentID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html"><param name="Name" value="DocumentParser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html#a6c459a9c933abe2a57faf1c5a231fbe3"><param name="Name" value="reParseDocuments"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html"><param name="Name" value="DocumentParser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html#a73474dc8edd0a0f50063b33a0b93a03d"><param name="Name" value="sortDocuments"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html#a5af1678eadc5dd475a57dd38a4313ba2"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html#a5af1678eadc5dd475a57dd38a4313ba2"><param name="Name" value="DocumentParser"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a07208c31b4c3b419c88a9c545ce05219"><param name="Name" value="IndexHandler"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a0093b29d48c791453bfbeb7bb947e872"><param name="Name" value="andAuthorQuery"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a9e3caf742dba86f22d6d3b700d73c48c"><param name="Name" value="andNotAuthorQuery"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#acb32947e9c59fa9f34f63905b140298b"><param name="Name" value="andNotQuery"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a2c6de313444899250b08ab30d9f76c33"><param name="Name" value="andQuery"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#ab323542981be908a824921806d698bb7"><param name="Name" value="authorIndex"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#af6a78c9947df3b3d396425487c4f0f92"><param name="Name" value="authorNotQuery"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#ae39873601aea9fd8bce9e811c087c696"><param name="Name" value="authorQuery"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#ae9053d7495f2dec4670a1d0e17905530"><param name="Name" value="calcScore"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a831ed1ca97fb9e3de424c1048197f23a"><param name="Name" value="cleanWord"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a0ea6cbae02cc94848fb036353adf57ca"><param name="Name" value="createAVLPersistanceFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a9ba538822fd3bab52610ee81f3994d52"><param name="Name" value="createHashPersistanceFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a4f6159c0a7a62bf8bad0fab225e9c68a"><param name="Name" value="createIndexFromFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a29df1b25126d333c24a02217ec4574d5"><param name="Name" value="createStopWords"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a452f69aa716eb21e2625e771d423cf5a"><param name="Name" value="createWordIndex"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#ab6e3fe97040a5324fdbf1a4f3c4d5447"><param name="Name" value="findDifference"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#ab90719e4e08d3226c957457c463688fc"><param name="Name" value="findIntersection"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#aa4c6e37bf260a913f4becb5d43d07372"><param name="Name" value="findUnion"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a0fa5b2411f493eae9e3b00f37bf066f2"><param name="Name" value="isInVector"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#ac2ba5be2f99127ca1cbcf100ecfbfe6c"><param name="Name" value="orAuthorQuery"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#af7dfe0c0a6b2ec740dd45fd8add22975"><param name="Name" value="orNotAuthorQuery"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a09554104f3747097a52e2ab26cce6c6f"><param name="Name" value="orNotQuery"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a55747ee4f5c21d625eea480058e4f7e2"><param name="Name" value="orQuery"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a6f7e3a900538a985ae3c1ada3868305f"><param name="Name" value="parser"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a20635d23481c9bdac1f9bc6c8a5385cd"><param name="Name" value="partition"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#abe89422b4aa52c31fe4e3f09fd3cfd38"><param name="Name" value="printDocuments"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#ac91982b6ac2865cceabd47a98b45a183"><param name="Name" value="printStats"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#aa997f7474de80a39167ed5aff0503dff"><param name="Name" value="quickSort"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#ac2ad5fbb046507f96afbf945e65bc135"><param name="Name" value="quickSortRec"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a0e010f442a877ff991a5ed9ffce9151b"><param name="Name" value="ranker"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#af95176558465923932601c0d1d8b6c99"><param name="Name" value="stopWords"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a890d3a26d5c048312998f4dd94866197"><param name="Name" value="uniquifyVect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html"><param name="Name" value="IndexHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#af394b8e44021a0b685371ee2514d29ba"><param name="Name" value="wordIndex"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer.html"><param name="Name" value="Porter2Stemmer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#add0f2aec57b66845cb78e98844bb4205"><param name="Name" value="changeY"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ade420031f6e4e4a9f432c82b7f54420b"><param name="Name" value="containsVowel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#aca68167dfec7979b35d5bc732d2c6ef0"><param name="Name" value="endsInDouble"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a28eb8ebf000d316d4a047a0a55abab7d"><param name="Name" value="endsWith"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a4419080bc3b64aca4998a732e9f99d84"><param name="Name" value="firstNonVowelAfterVowel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a2d7e133e04950f30c9b3a2935be7c802"><param name="Name" value="getStartR1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a87bb0a5733b6267185b7951349477070"><param name="Name" value="getStartR2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a15dc6085d05bf8e2ee691ef08e0fae29"><param name="Name" value="isShort"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#acb88f8cc716be69a9c19818473614d68"><param name="Name" value="isValidLIEnding"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a63d428e12b7b2aeea945c24afe44d1d2"><param name="Name" value="isVowel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a72ec1ef1732191be64f203bbe0e4397d"><param name="Name" value="isVowelY"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ad6f95ce8820c7f829d0f0707ee437480"><param name="Name" value="replaceIfExists"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a7c20680dfe258c8050c8225d97b2e160"><param name="Name" value="special"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ae689551ae90968445d4ab1a60ffc805c"><param name="Name" value="step0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#af0acc908e606cd6e2917bf2ed31d5fe7"><param name="Name" value="step1A"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#af4cffda4b443475c766407d60eac03dc"><param name="Name" value="step1B"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#abc52eb93a0acc99087ca62bb2a4e647e"><param name="Name" value="step1C"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a8bde57d3eeee683082f53cd7a9a0a2f8"><param name="Name" value="step2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a8ea5872c398ea38fb5ff359879613a4e"><param name="Name" value="step3"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a46c7932444166421508feab27b1addfa"><param name="Name" value="step4"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ad53abf614a24cba562dba83857f42091"><param name="Name" value="step5"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer.html"><param name="Name" value="Porter2Stemmer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer.html#ad07c4652a1144329db4bdfb6ce640d80"><param name="Name" value="stem"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer.html"><param name="Name" value="Porter2Stemmer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer.html#ac74222c2eb041cff861fddfd529bc983"><param name="Name" value="trim"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html"><param name="Name" value="QueryProcessor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html"><param name="Name" value="QueryProcessor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a0942ccc5c29c22e3518d0f47d46d691f"><param name="Name" value="QueryProcessor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html"><param name="Name" value="QueryProcessor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a2eb79a3bec738c7ea17487fd4671deca"><param name="Name" value="createPresistenceFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html"><param name="Name" value="QueryProcessor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a5293b82aa84d9eeff76fab4f46a0a03d"><param name="Name" value="generateOutput"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html"><param name="Name" value="QueryProcessor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a42cb33ce5c8730d475b64e95b3afd682"><param name="Name" value="handler"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html"><param name="Name" value="QueryProcessor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a38b657113e1836a21194354b84afb59a"><param name="Name" value="inputQuery"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html"><param name="Name" value="QueryProcessor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a635faded65f48e071c9e539965ad9c75"><param name="Name" value="printArticle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html"><param name="Name" value="QueryProcessor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a47433b370b1ef88e998658de79fb7373"><param name="Name" value="repopulate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html"><param name="Name" value="QueryProcessor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#ab5d995117f9e04b46c2f512971f3601d"><param name="Name" value="runProcess"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html"><param name="Name" value="QueryProcessor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a5cdd4d20845c50c9f9f1f3de8ec2ee33"><param name="Name" value="search"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html"><param name="Name" value="QueryProcessor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a871cb34147de2ebdd5fe1d7621c3409b"><param name="Name" value="split"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html"><param name="Name" value="QueryProcessor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a3b6e2867a625e72c330953c251c7e419"><param name="Name" value="stats"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html"><param name="Name" value="ResearchDocument"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html"><param name="Name" value="ResearchDocument"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html#ae45c15ab4b3018697d6de3593e1dd9fc"><param name="Name" value="ResearchDocument"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html"><param name="Name" value="ResearchDocument"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html#ae2d3a284d5c00216df3ec3e5d38da5fd"><param name="Name" value="author_last"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html"><param name="Name" value="ResearchDocument"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html#aff7d109165013300f791e02978b1e776"><param name="Name" value="operator<"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html"><param name="Name" value="ResearchDocument"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html#a37cbe1e9ee204fcc98fb62637005a9c0"><param name="Name" value="operator=="></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html"><param name="Name" value="ResearchDocument"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html#a5aaf773894b3878dcc988ead04c9dd13"><param name="Name" value="paper_id"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html"><param name="Name" value="ResearchDocument"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html#ac85599cd9fba26cf7b4f5ce32b1e259a"><param name="Name" value="text"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html"><param name="Name" value="ResearchDocument"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html#ac7df28019c77330cd6abec3a1d91bbaf"><param name="Name" value="title"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html"><param name="Name" value="ResearchDocument"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html#ad0b3a3b6dc010824106692f4c12620bc"><param name="Name" value="wordCount"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="md__r_e_a_d_m_e.html"><param name="Name" value="Search Engine (Spring 2021)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a0093b29d48c791453bfbeb7bb947e872"><param name="Name" value="andAuthorQuery"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a9e3caf742dba86f22d6d3b700d73c48c"><param name="Name" value="andNotAuthorQuery"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#acb32947e9c59fa9f34f63905b140298b"><param name="Name" value="andNotQuery"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a2c6de313444899250b08ab30d9f76c33"><param name="Name" value="andQuery"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#ab323542981be908a824921806d698bb7"><param name="Name" value="authorIndex"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#af6a78c9947df3b3d396425487c4f0f92"><param name="Name" value="authorNotQuery"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#ae39873601aea9fd8bce9e811c087c696"><param name="Name" value="authorQuery"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html#ae2d3a284d5c00216df3ec3e5d38da5fd"><param name="Name" value="author_last"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#afcb36e7a0f8f9cbaf8948fe2c12536fb"><param name="Name" value="balance"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#afcb36e7a0f8f9cbaf8948fe2c12536fb"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#ac6dc1f61e5e8550f6c90c078efba3c8f"><param name="Name" value="balance"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#ac6dc1f61e5e8550f6c90c078efba3c8f"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#ae9053d7495f2dec4670a1d0e17905530"><param name="Name" value="calcScore"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#add0f2aec57b66845cb78e98844bb4205"><param name="Name" value="changeY"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#add0f2aec57b66845cb78e98844bb4205"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#add0f2aec57b66845cb78e98844bb4205"><param name="Name" value="changeY"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#add0f2aec57b66845cb78e98844bb4205"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a831ed1ca97fb9e3de424c1048197f23a"><param name="Name" value="cleanWord"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#abd4b0f0728518e295e5dab9cf0bf378b"><param name="Name" value="clone"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#abd4b0f0728518e295e5dab9cf0bf378b"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#ac64438da5a707e9b9ab733dca1ef13d1"><param name="Name" value="clone"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#ac64438da5a707e9b9ab733dca1ef13d1"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a7fc59f60d0e62e2a4a1ae88e42c1d0ec"><param name="Name" value="contains"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a7fc59f60d0e62e2a4a1ae88e42c1d0ec"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a676873b8cd67f2f955e35c91e0f66b75"><param name="Name" value="contains"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a676873b8cd67f2f955e35c91e0f66b75"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a599ae32157fadbb1f9ceb5e01bd1c08e"><param name="Name" value="contains"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a599ae32157fadbb1f9ceb5e01bd1c08e"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a34a41808353dc9b47a1b3361291c3ea5"><param name="Name" value="contains"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a34a41808353dc9b47a1b3361291c3ea5"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#a693ff30501ee776b283cd5361b417a63"><param name="Name" value="contains"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#a693ff30501ee776b283cd5361b417a63"><param name="Name" value="DSHashTable"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ade420031f6e4e4a9f432c82b7f54420b"><param name="Name" value="containsVowel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ade420031f6e4e4a9f432c82b7f54420b"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ade420031f6e4e4a9f432c82b7f54420b"><param name="Name" value="containsVowel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ade420031f6e4e4a9f432c82b7f54420b"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a0ea6cbae02cc94848fb036353adf57ca"><param name="Name" value="createAVLPersistanceFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a9ba538822fd3bab52610ee81f3994d52"><param name="Name" value="createHashPersistanceFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a4f6159c0a7a62bf8bad0fab225e9c68a"><param name="Name" value="createIndexFromFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a2eb79a3bec738c7ea17487fd4671deca"><param name="Name" value="createPresistenceFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a29df1b25126d333c24a02217ec4574d5"><param name="Name" value="createStopWords"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a452f69aa716eb21e2625e771d423cf5a"><param name="Name" value="createWordIndex"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a57c72cbe6de3592e32d7ac1b6c66a2bb"><param name="Name" value="destructorHelper"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a57c72cbe6de3592e32d7ac1b6c66a2bb"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a221424efe06e077d498236f96bdf8d5a"><param name="Name" value="destructorHelper"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a221424efe06e077d498236f96bdf8d5a"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html#aa6b27c9925280109ec03e9dfbbb7279e"><param name="Name" value="documents"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#af23a16f0b9adea9ac9a2cd91c41f0c1c"><param name="Name" value="doubleWithLeftChild"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#af23a16f0b9adea9ac9a2cd91c41f0c1c"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a097f654733d9b48181a8b078a7237bfc"><param name="Name" value="doubleWithLeftChild"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a097f654733d9b48181a8b078a7237bfc"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a8c7aa77ad5b56dddee35ca7df9bfd57f"><param name="Name" value="doubleWithRightChild"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a8c7aa77ad5b56dddee35ca7df9bfd57f"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#ae36138ed3124b3b5aef4fd355a4d352c"><param name="Name" value="doubleWithRightChild"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#ae36138ed3124b3b5aef4fd355a4d352c"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#aca68167dfec7979b35d5bc732d2c6ef0"><param name="Name" value="endsInDouble"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#aca68167dfec7979b35d5bc732d2c6ef0"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#aca68167dfec7979b35d5bc732d2c6ef0"><param name="Name" value="endsInDouble"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#aca68167dfec7979b35d5bc732d2c6ef0"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a28eb8ebf000d316d4a047a0a55abab7d"><param name="Name" value="endsWith"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a28eb8ebf000d316d4a047a0a55abab7d"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a28eb8ebf000d316d4a047a0a55abab7d"><param name="Name" value="endsWith"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a28eb8ebf000d316d4a047a0a55abab7d"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#ab6e3fe97040a5324fdbf1a4f3c4d5447"><param name="Name" value="findDifference"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html#a0621ecd3e2c6c042ef7ec8271355aa83"><param name="Name" value="findDocumentID"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#ab90719e4e08d3226c957457c463688fc"><param name="Name" value="findIntersection"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#aa4c6e37bf260a913f4becb5d43d07372"><param name="Name" value="findUnion"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a4419080bc3b64aca4998a732e9f99d84"><param name="Name" value="firstNonVowelAfterVowel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a4419080bc3b64aca4998a732e9f99d84"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a4419080bc3b64aca4998a732e9f99d84"><param name="Name" value="firstNonVowelAfterVowel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a4419080bc3b64aca4998a732e9f99d84"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a5293b82aa84d9eeff76fab4f46a0a03d"><param name="Name" value="generateOutput"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a50f2f9c71224208aad4401bc04d74fbe"><param name="Name" value="get"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a50f2f9c71224208aad4401bc04d74fbe"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a07f3dad9f5120e86ef220f976d4d7bf4"><param name="Name" value="get"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a07f3dad9f5120e86ef220f976d4d7bf4"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a04d6bd446033890e2e4c3b51453c1116"><param name="Name" value="get"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a04d6bd446033890e2e4c3b51453c1116"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#ad583adb0843ab4012e5a566bed3734ba"><param name="Name" value="get"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#ad583adb0843ab4012e5a566bed3734ba"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a08232592b65364bf18cc89d86e69d9e5"><param name="Name" value="getHeight"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a08232592b65364bf18cc89d86e69d9e5"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a602ec1e48408d0167405d78ff89caca7"><param name="Name" value="getHeight"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a602ec1e48408d0167405d78ff89caca7"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#ab4ca1d768cb3191d94cd1d82e41887d3"><param name="Name" value="getNumElememts"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a2d7e133e04950f30c9b3a2935be7c802"><param name="Name" value="getStartR1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a2d7e133e04950f30c9b3a2935be7c802"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a2d7e133e04950f30c9b3a2935be7c802"><param name="Name" value="getStartR1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a2d7e133e04950f30c9b3a2935be7c802"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a87bb0a5733b6267185b7951349477070"><param name="Name" value="getStartR2"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a87bb0a5733b6267185b7951349477070"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a87bb0a5733b6267185b7951349477070"><param name="Name" value="getStartR2"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a87bb0a5733b6267185b7951349477070"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#a5574c1925fb7e0a23530885187e101cb"><param name="Name" value="getVal"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a499ea2fa847fe2c16c788d454d924202"><param name="Name" value="getVectOfElements"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#aafff3f586b7791ad347625903e401f91"><param name="Name" value="getVectOfElementsHelper"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#a410a6bc9eea85504f9e7db1f77216c97"><param name="Name" value="get_key"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#a7f7528dfd5dfa60e2c1b70e5949f25b3"><param name="Name" value="get_left"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#aa4230ccd2c07b95fe4927c656cb424ff"><param name="Name" value="get_right"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a1687590c809bc2a4e9e417f5a3cb7cd2"><param name="Name" value="get_root"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a1687590c809bc2a4e9e417f5a3cb7cd2"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#aa25f6e0385fb37d1c77c12978e74cb2e"><param name="Name" value="get_root"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#aa25f6e0385fb37d1c77c12978e74cb2e"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#ae2e52516e45b67f1c343344abe989f8d"><param name="Name" value="get_value"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a42cb33ce5c8730d475b64e95b3afd682"><param name="Name" value="handler"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#a0adf728ae8aca106fef83d27baf5bcd9"><param name="Name" value="hash"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#ab32c2653b4c84d3e0b3c60c7f7e0d3f9"><param name="Name" value="height"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a38b657113e1836a21194354b84afb59a"><param name="Name" value="inputQuery"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#aa82afbe5e725b5229a75b4aba39224b0"><param name="Name" value="insert"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#aa82afbe5e725b5229a75b4aba39224b0"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a6d9d2aedebcb8236cd6b2c0a8fd84376"><param name="Name" value="insert"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a6d9d2aedebcb8236cd6b2c0a8fd84376"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a583c9125a6be93a0ccb29361cd1d51fa"><param name="Name" value="insert"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a583c9125a6be93a0ccb29361cd1d51fa"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a3f1d102f7543fdbfcdbf457cfc2bc496"><param name="Name" value="insert"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a3f1d102f7543fdbfcdbf457cfc2bc496"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a38a16a39c0bd4944855c7a1e607cc85f"><param name="Name" value="insert"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a38a16a39c0bd4944855c7a1e607cc85f"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a939ef31d50ed84eb340bf8fa6dc020a0"><param name="Name" value="insert"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a939ef31d50ed84eb340bf8fa6dc020a0"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#acaac100e394efa82cfd7494bf6e8f6af"><param name="Name" value="insert"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#acaac100e394efa82cfd7494bf6e8f6af"><param name="Name" value="DSHashTable"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a0fa5b2411f493eae9e3b00f37bf066f2"><param name="Name" value="isInVector"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a15dc6085d05bf8e2ee691ef08e0fae29"><param name="Name" value="isShort"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a15dc6085d05bf8e2ee691ef08e0fae29"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a15dc6085d05bf8e2ee691ef08e0fae29"><param name="Name" value="isShort"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a15dc6085d05bf8e2ee691ef08e0fae29"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#acb88f8cc716be69a9c19818473614d68"><param name="Name" value="isValidLIEnding"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#acb88f8cc716be69a9c19818473614d68"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#acb88f8cc716be69a9c19818473614d68"><param name="Name" value="isValidLIEnding"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#acb88f8cc716be69a9c19818473614d68"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a63d428e12b7b2aeea945c24afe44d1d2"><param name="Name" value="isVowel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a63d428e12b7b2aeea945c24afe44d1d2"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a63d428e12b7b2aeea945c24afe44d1d2"><param name="Name" value="isVowel"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a63d428e12b7b2aeea945c24afe44d1d2"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a72ec1ef1732191be64f203bbe0e4397d"><param name="Name" value="isVowelY"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a72ec1ef1732191be64f203bbe0e4397d"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a72ec1ef1732191be64f203bbe0e4397d"><param name="Name" value="isVowelY"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a72ec1ef1732191be64f203bbe0e4397d"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#a45b60a1c6c188b34862cb30741ee5209"><param name="Name" value="key"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#a45b60a1c6c188b34862cb30741ee5209"><param name="Name" value="DSAVLTreeNode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_d_s_hash_table_1_1pair.html#ac92715e61161bf7fa381427dab069508"><param name="Name" value="key"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_d_s_hash_table_1_1pair.html#ac92715e61161bf7fa381427dab069508"><param name="Name" value="DSHashTable::pair"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#ad9df054f434521391d69248dab77edf4"><param name="Name" value="left"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97"><param name="Name" value="main.cpp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97"><param name="Name" value="main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#a5d5c36daaf90fabfa95b724e92eb83fd"><param name="Name" value="numElements"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html#aff7d109165013300f791e02978b1e776"><param name="Name" value="operator<"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html#a37cbe1e9ee204fcc98fb62637005a9c0"><param name="Name" value="operator=="></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a231d42ccf3da07c9a9ca614d78343e8e"><param name="Name" value="operator="></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a231d42ccf3da07c9a9ca614d78343e8e"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#af6fc23d7385e5fa87c1168214b8b8a4c"><param name="Name" value="operator="></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#af6fc23d7385e5fa87c1168214b8b8a4c"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#ac2ba5be2f99127ca1cbcf100ecfbfe6c"><param name="Name" value="orAuthorQuery"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#af7dfe0c0a6b2ec740dd45fd8add22975"><param name="Name" value="orNotAuthorQuery"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a09554104f3747097a52e2ab26cce6c6f"><param name="Name" value="orNotQuery"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a55747ee4f5c21d625eea480058e4f7e2"><param name="Name" value="orQuery"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_d_s_hash_table_1_1pair.html#a97bef9fbafa6691759a62190537362dd"><param name="Name" value="pair"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html#a5aaf773894b3878dcc988ead04c9dd13"><param name="Name" value="paper_id"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a6f7e3a900538a985ae3c1ada3868305f"><param name="Name" value="parser"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a20635d23481c9bdac1f9bc6c8a5385cd"><param name="Name" value="partition"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#add0f2aec57b66845cb78e98844bb4205"><param name="Name" value="changeY"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#ade420031f6e4e4a9f432c82b7f54420b"><param name="Name" value="containsVowel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#aca68167dfec7979b35d5bc732d2c6ef0"><param name="Name" value="endsInDouble"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#a28eb8ebf000d316d4a047a0a55abab7d"><param name="Name" value="endsWith"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#a4419080bc3b64aca4998a732e9f99d84"><param name="Name" value="firstNonVowelAfterVowel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#a2d7e133e04950f30c9b3a2935be7c802"><param name="Name" value="getStartR1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#a87bb0a5733b6267185b7951349477070"><param name="Name" value="getStartR2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#a15dc6085d05bf8e2ee691ef08e0fae29"><param name="Name" value="isShort"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#acb88f8cc716be69a9c19818473614d68"><param name="Name" value="isValidLIEnding"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#a63d428e12b7b2aeea945c24afe44d1d2"><param name="Name" value="isVowel"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#a72ec1ef1732191be64f203bbe0e4397d"><param name="Name" value="isVowelY"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#ad6f95ce8820c7f829d0f0707ee437480"><param name="Name" value="replaceIfExists"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#a7c20680dfe258c8050c8225d97b2e160"><param name="Name" value="special"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#ad07c4652a1144329db4bdfb6ce640d80"><param name="Name" value="stem"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#ae689551ae90968445d4ab1a60ffc805c"><param name="Name" value="step0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#af0acc908e606cd6e2917bf2ed31d5fe7"><param name="Name" value="step1A"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#af4cffda4b443475c766407d60eac03dc"><param name="Name" value="step1B"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#abc52eb93a0acc99087ca62bb2a4e647e"><param name="Name" value="step1C"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#a8bde57d3eeee683082f53cd7a9a0a2f8"><param name="Name" value="step2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#a8ea5872c398ea38fb5ff359879613a4e"><param name="Name" value="step3"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#a46c7932444166421508feab27b1addfa"><param name="Name" value="step4"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#ad53abf614a24cba562dba83857f42091"><param name="Name" value="step5"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="porter2__stemmer_8h.html#ac74222c2eb041cff861fddfd529bc983"><param name="Name" value="trim"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a635faded65f48e071c9e539965ad9c75"><param name="Name" value="printArticle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#abe89422b4aa52c31fe4e3f09fd3cfd38"><param name="Name" value="printDocuments"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#ab27b40f737ad9e29279668ef4c03a0e7"><param name="Name" value="printFileHelper"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a26e446b53943d23cf0b884a0342a2868"><param name="Name" value="printInOrder"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a26e446b53943d23cf0b884a0342a2868"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#acbfca2ec62e71686e594cf355922047a"><param name="Name" value="printInOrder"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#acbfca2ec62e71686e594cf355922047a"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a462efcbf39502064d0b004012e82a2ff"><param name="Name" value="printInOrder"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a462efcbf39502064d0b004012e82a2ff"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a12b1f84a2cf25750c64b817d951578e5"><param name="Name" value="printInOrder"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a12b1f84a2cf25750c64b817d951578e5"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#a7ddd7dbd862a19cfda37396a257d1108"><param name="Name" value="printMap"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a11d1438e696dfc62716a3f898f069dcf"><param name="Name" value="printPostOrder"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a11d1438e696dfc62716a3f898f069dcf"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a64b386de16891bcacbbbba9606ee7b6f"><param name="Name" value="printPostOrder"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a64b386de16891bcacbbbba9606ee7b6f"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a74599f42247aa1369967ede3cf31a782"><param name="Name" value="printPostOrder"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a74599f42247aa1369967ede3cf31a782"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a503429b957d13e6aac38f0c3819b72a4"><param name="Name" value="printPostOrder"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a503429b957d13e6aac38f0c3819b72a4"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a802c32858ee759e6b650615eca6a9f80"><param name="Name" value="printPreOrder"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a802c32858ee759e6b650615eca6a9f80"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a5633bcba04d4eceabce6b2dda9cb1a13"><param name="Name" value="printPreOrder"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a5633bcba04d4eceabce6b2dda9cb1a13"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a1d90be78a1cb34c92d990ce06f2846c5"><param name="Name" value="printPreOrder"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a1d90be78a1cb34c92d990ce06f2846c5"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#af6564bf139a6033cd15808f6200ec488"><param name="Name" value="printPreOrder"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#af6564bf139a6033cd15808f6200ec488"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#ac91982b6ac2865cceabd47a98b45a183"><param name="Name" value="printStats"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#a8cfa8c1dfb277f8852203dd19781ab2e"><param name="Name" value="printTableToFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#ad03d21562fe84ef20ee0374456c1cfda"><param name="Name" value="printTreeToFile"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#aa997f7474de80a39167ed5aff0503dff"><param name="Name" value="quickSort"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#ac2ad5fbb046507f96afbf945e65bc135"><param name="Name" value="quickSortRec"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a0e010f442a877ff991a5ed9ffce9151b"><param name="Name" value="ranker"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html#a6c459a9c933abe2a57faf1c5a231fbe3"><param name="Name" value="reParseDocuments"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#aa0d415f187d08d30ac5ee03f91e77382"><param name="Name" value="rehash"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ad6f95ce8820c7f829d0f0707ee437480"><param name="Name" value="replaceIfExists"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ad6f95ce8820c7f829d0f0707ee437480"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ad6f95ce8820c7f829d0f0707ee437480"><param name="Name" value="replaceIfExists"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ad6f95ce8820c7f829d0f0707ee437480"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a47433b370b1ef88e998658de79fb7373"><param name="Name" value="repopulate"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#a263be9c7dc9cc6de1abe85491417dcfe"><param name="Name" value="right"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a614f3d5ae8f2fc81a4b99544f57cff64"><param name="Name" value="root"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a614f3d5ae8f2fc81a4b99544f57cff64"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a84e5f9d5871c75ac12015c30ffe58ef1"><param name="Name" value="root"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#a84e5f9d5871c75ac12015c30ffe58ef1"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a04a2839782625bb6737a73e97538f574"><param name="Name" value="rotateWithLeftChild"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a04a2839782625bb6737a73e97538f574"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#aeac9efe815f1cb9e486d337c5f27b8a1"><param name="Name" value="rotateWithLeftChild"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#aeac9efe815f1cb9e486d337c5f27b8a1"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#adfb8d8158d9bc74680b0e9a60fbaa4a9"><param name="Name" value="rotateWithRightChild"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#adfb8d8158d9bc74680b0e9a60fbaa4a9"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#acf5aca2502a9ca12bbfd82940e3483c7"><param name="Name" value="rotateWithRightChild"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#acf5aca2502a9ca12bbfd82940e3483c7"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#ab5d995117f9e04b46c2f512971f3601d"><param name="Name" value="runProcess"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a5cdd4d20845c50c9f9f1f3de8ec2ee33"><param name="Name" value="search"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_document_parser.html#a73474dc8edd0a0f50063b33a0b93a03d"><param name="Name" value="sortDocuments"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a7c20680dfe258c8050c8225d97b2e160"><param name="Name" value="special"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a7c20680dfe258c8050c8225d97b2e160"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a7c20680dfe258c8050c8225d97b2e160"><param name="Name" value="special"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a7c20680dfe258c8050c8225d97b2e160"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a871cb34147de2ebdd5fe1d7621c3409b"><param name="Name" value="split"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_query_processor.html#a3b6e2867a625e72c330953c251c7e419"><param name="Name" value="stats"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer.html#ad07c4652a1144329db4bdfb6ce640d80"><param name="Name" value="stem"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer.html#ad07c4652a1144329db4bdfb6ce640d80"><param name="Name" value="Porter2Stemmer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer.html#ad07c4652a1144329db4bdfb6ce640d80"><param name="Name" value="stem"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer.html#ad07c4652a1144329db4bdfb6ce640d80"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ae689551ae90968445d4ab1a60ffc805c"><param name="Name" value="step0"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ae689551ae90968445d4ab1a60ffc805c"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ae689551ae90968445d4ab1a60ffc805c"><param name="Name" value="step0"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ae689551ae90968445d4ab1a60ffc805c"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#af0acc908e606cd6e2917bf2ed31d5fe7"><param name="Name" value="step1A"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#af0acc908e606cd6e2917bf2ed31d5fe7"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#af0acc908e606cd6e2917bf2ed31d5fe7"><param name="Name" value="step1A"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#af0acc908e606cd6e2917bf2ed31d5fe7"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#af4cffda4b443475c766407d60eac03dc"><param name="Name" value="step1B"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#af4cffda4b443475c766407d60eac03dc"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#af4cffda4b443475c766407d60eac03dc"><param name="Name" value="step1B"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#af4cffda4b443475c766407d60eac03dc"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#abc52eb93a0acc99087ca62bb2a4e647e"><param name="Name" value="step1C"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#abc52eb93a0acc99087ca62bb2a4e647e"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#abc52eb93a0acc99087ca62bb2a4e647e"><param name="Name" value="step1C"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#abc52eb93a0acc99087ca62bb2a4e647e"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a8bde57d3eeee683082f53cd7a9a0a2f8"><param name="Name" value="step2"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a8bde57d3eeee683082f53cd7a9a0a2f8"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a8bde57d3eeee683082f53cd7a9a0a2f8"><param name="Name" value="step2"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a8bde57d3eeee683082f53cd7a9a0a2f8"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a8ea5872c398ea38fb5ff359879613a4e"><param name="Name" value="step3"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a8ea5872c398ea38fb5ff359879613a4e"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a8ea5872c398ea38fb5ff359879613a4e"><param name="Name" value="step3"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a8ea5872c398ea38fb5ff359879613a4e"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a46c7932444166421508feab27b1addfa"><param name="Name" value="step4"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a46c7932444166421508feab27b1addfa"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a46c7932444166421508feab27b1addfa"><param name="Name" value="step4"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#a46c7932444166421508feab27b1addfa"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ad53abf614a24cba562dba83857f42091"><param name="Name" value="step5"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ad53abf614a24cba562dba83857f42091"><param name="Name" value="Porter2Stemmer::internal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ad53abf614a24cba562dba83857f42091"><param name="Name" value="step5"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer_1_1internal.html#ad53abf614a24cba562dba83857f42091"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#af95176558465923932601c0d1d8b6c99"><param name="Name" value="stopWords"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#a2c03c7a2cab5cccc925c68bb0c6856b1"><param name="Name" value="table"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_hash_table.html#a407e966ea2b78075a034ccab7e875239"><param name="Name" value="tableSize"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html#ac85599cd9fba26cf7b4f5ce32b1e259a"><param name="Name" value="text"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html#ac7df28019c77330cd6abec3a1d91bbaf"><param name="Name" value="title"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer.html#ac74222c2eb041cff861fddfd529bc983"><param name="Name" value="trim"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer.html#ac74222c2eb041cff861fddfd529bc983"><param name="Name" value="Porter2Stemmer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer.html#ac74222c2eb041cff861fddfd529bc983"><param name="Name" value="trim"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_porter2_stemmer.html#ac74222c2eb041cff861fddfd529bc983"><param name="Name" value="porter2_stemmer.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#a890d3a26d5c048312998f4dd94866197"><param name="Name" value="uniquifyVect"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#a5c8a3949548d3ef0146a125b3ec66ff8"><param name="Name" value="value"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_node.html#a5c8a3949548d3ef0146a125b3ec66ff8"><param name="Name" value="DSAVLTreeNode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_d_s_hash_table_1_1pair.html#adae5335efa276a5a459d33f1c4e3c9bb"><param name="Name" value="value"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_d_s_hash_table_1_1pair.html#adae5335efa276a5a459d33f1c4e3c9bb"><param name="Name" value="DSHashTable::pair"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_research_document.html#ad0b3a3b6dc010824106692f4c12620bc"><param name="Name" value="wordCount"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_index_handler.html#af394b8e44021a0b685371ee2514d29ba"><param name="Name" value="wordIndex"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a00f47fef3739978ea4834640bdf502d0"><param name="Name" value="~DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree.html#a00f47fef3739978ea4834640bdf502d0"><param name="Name" value="DSAVLTree"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#aeced9b6d83089ae7f74234ae717b71b5"><param name="Name" value="~DSAVLTree"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_d_s_a_v_l_tree_3_01std_1_1string_00_01_t_01_4.html#aeced9b6d83089ae7f74234ae717b71b5"><param name="Name" value="DSAVLTree< std::string, T >"></OBJECT>
+  </UL>
+</UL>
+</BODY>
+</HTML>

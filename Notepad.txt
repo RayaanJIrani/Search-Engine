@@ -1,0 +1,7 @@
+JSON Parser I found: https://github.com/Tencent/rapidjson
+Supposed to be fastest.
+
+https://stackoverflow.com/questions/612097/how-can-i-get-the-list-of-files-in-a-directory-using-c-or-c
+
+Stemer library:
+https://github.com/smassung/porter2_stemmer
